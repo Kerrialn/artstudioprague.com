@@ -5,8 +5,32 @@
 </head>
 
 <style>
+    *{
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+
+
     .card {
         border: 0;
+    }
+    .card span{
+        display: none;
+        position: absolute;
+        top:0;
+        text-align: center;
+        height: 100%;
+        width: 100%;
+        background-color: rgba(0,0,0,0.65);
+        color: #ffffff;
+        transition: all 0.85s ease-in-out;
+    }
+
+    .card:hover span{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        align-items: center;
     }
 </style>
 
@@ -39,34 +63,42 @@
 
         <div class="card">
             <img src="images/so-this-is-where-it-went-down.jpg" class="img-fluid" alt="...">
+            <span>So This is Where It Went Down</span>
         </div>
 
         <div class="card">
             <img src="images/afterglow-web.jpg" class="img-fluid" alt="Afterglow">
+            <span>Afterglow</span>
         </div>
 
         <div class="card">
             <img src="images/something-started-to-happen.jpg" class="img-fluid" alt="something-started-to-happen">
+            <span>Something Started To Happen</span>
         </div>
 
         <div class="card">
             <img src="images/Bonedigger.jpg" class="img-fluid" alt="...">
+            <span>Bone Digger</span>
         </div>
 
         <div class="card">
             <img src="images/biology-3.jpg" class="img-fluid" alt="...">
+            <span>Biology</span>
         </div>
 
         <div class="card">
             <img src="images/GSC.jpg" class="img-fluid" alt="...">
+            <span>GSC</span>
         </div>
 
         <div class="card">
             <img src="images/Blue-purple-web.jpg" class="img-fluid" alt="...">
+            <span>Blue purple</span>
         </div>
 
         <div class="card">
             <img src="images/When-mentalities-collide-smaller.jpg" class="img-fluid" alt="...">
+            <span>When Mentalities Collide</span>
         </div>
 
     </div>
