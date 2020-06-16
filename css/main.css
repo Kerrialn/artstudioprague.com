@@ -1,0 +1,65 @@
+.footer{
+    text-align: center;
+    padding: 10px;
+    color: rgba(0,0,0,0.7);
+}
+
+#content{
+    min-height: 100vh;
+}
+
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.artwork {
+    margin: 20px auto;
+    position: relative;
+}
+
+.artwork img {
+}
+
+.artwork img:hover {
+    pointer-events: none;
+    transition: all 0.85s ease-in-out;
+}
+
+.artwork .title {
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.artwork .sub-title {
+    font-size: 12px;
+}
+
+.carousel-img {
+    width: 100%;
+    height: 450px;
+    background-size: cover;
+    object-fit: cover;
+    background-position: center center;
+}
+
+@media (max-width: 700px) {
+    .artwork .plaque {
+
+    }
+}
+
+@media (min-width: 700px) {
+    .artwork .plaque {
+        position: absolute;
+        top: 75%;
+        transform: translateY(-75%);
+        left: 5%;
+        width: 30%;
+    }
+}
+
+
+.price{
+    font-size: 12px;
+}
