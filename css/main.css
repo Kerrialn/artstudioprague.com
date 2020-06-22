@@ -44,16 +44,25 @@
 }
 
 @media (max-width: 0px) {
-
+    .logo-img {
+        width: 30%;
+    }
 
 }
 
 .logo-img {
-    width: 40%;
+    width: 100%;
 }
 
 
+
 @media (min-width: 700px) {
+
+
+    .logo-img {
+        width: 300px;
+    }
+
     .artwork .plaque {
         position: absolute;
         top: 75%;
