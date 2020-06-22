@@ -45,16 +45,15 @@
 
 @media (max-width: 0px) {
 
-    .logo-img {
-        width: 150px;
-    }
+
 }
 
-@media (min-width: 700px) {
-    .logo-img {
-        width: 300px;
-    }
+.logo-img {
+    width: 40%;
+}
 
+
+@media (min-width: 700px) {
     .artwork .plaque {
         position: absolute;
         top: 75%;
