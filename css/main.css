@@ -1,10 +1,10 @@
-.footer{
+.footer {
     text-align: center;
     padding: 10px;
-    color: rgba(0,0,0,0.7);
+    color: rgba(0, 0, 0, 0.7);
 }
 
-#content{
+#content {
     min-height: 100vh;
 }
 
@@ -45,15 +45,16 @@
 
 @media (max-width: 0px) {
 
-    .logo-img{
-        width: 40%
+    .logo-img {
+        width: 150px;
     }
 }
 
 @media (min-width: 700px) {
-    .logo-img{
+    .logo-img {
         width: 300px;
     }
+
     .artwork .plaque {
         position: absolute;
         top: 75%;
@@ -64,6 +65,6 @@
 }
 
 
-.price{
+.price {
     font-size: 12px;
 }
