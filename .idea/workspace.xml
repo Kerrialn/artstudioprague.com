@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="772b9e43-fcb6-4b3c-b8d6-4614e70cbf4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/app/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/app/index.html.twig" afterDir="false" />
-    </list>
+    <list default="true" id="772b9e43-fcb6-4b3c-b8d6-4614e70cbf4a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,9 +147,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/kerrialnewham/Sites/personal/artstudioprague.com",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml.dist" scope="XML" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -159,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612002456016</updated>
       <workItem from="1612002461121" duration="1916000" />
-      <workItem from="1695900599264" duration="170000" />
+      <workItem from="1695900599264" duration="480000" />
     </task>
     <servers />
   </component>
