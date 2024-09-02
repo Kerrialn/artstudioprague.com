@@ -5,98 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="772b9e43-fcb6-4b3c-b8d6-4614e70cbf4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/cache.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/debug.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/doctrine.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/doctrine_migrations.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/framework.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/mailer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/monolog.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/notifier.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/routing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/security.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/translation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/twig.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/validator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/packages/web_profiler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/routes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/routes/framework.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/routes/web_profiler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/services.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artstudioprague.com.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artstudioprague.com.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/cache.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/dev/debug.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/dev/monolog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/dev/web_profiler.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/doctrine.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/doctrine_migrations.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/framework.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/mailer.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/notifier.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/prod/deprecations.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/prod/doctrine.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/prod/monolog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/prod/routing.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/routing.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/sensio_framework_extra.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/test/framework.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/test/monolog.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/test/twig.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/test/validator.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/test/web_profiler.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/translation.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/validator.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/preload.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/preload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes/annotations.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes/dev/framework.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes/dev/web_profiler.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/services.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/a-modern-world.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/a-sort-of-order-began-to-emerge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/afterglow.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/aspbanner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/blue-swirl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/body-clock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/boiling-plasma1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/bonedigger1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/galaxy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/golden-swirl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/im-guessing-that.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/its-just-my-biology.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/let-the-beauty.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/mentalities-in-visionary.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/my-head-is-bursting.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/sink-of-swim.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/so-this-is-where-it-went-down.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/something-has-started-to-happen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/the-dark-heart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/the-messenger.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/there-is-a-cloud.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/they-saw-it-coming.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/visionary-exhibition-east.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/visionary-west-wing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/when-mentalities-collide.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/images/when-you-look-close-enough.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/purchase/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/AppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Controller/AppController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/app/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/app/index.html.twig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +166,7 @@
       <workItem from="1612002461121" duration="1916000" />
       <workItem from="1695900599264" duration="812000" />
       <workItem from="1695901531263" duration="469000" />
-      <workItem from="1725200372541" duration="6081000" />
+      <workItem from="1725200372541" duration="6936000" />
     </task>
     <servers />
   </component>
