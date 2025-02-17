@@ -144,6 +144,9 @@
             "config/packages/sensio_framework_extra.yaml"
         ]
     },
+    "stenope/stenope": {
+        "version": "v0.9.0"
+    },
     "symfony/apache-pack": {
         "version": "1.0",
         "recipe": {
