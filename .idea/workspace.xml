@@ -6,38 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="772b9e43-fcb6-4b3c-b8d6-4614e70cbf4a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/a-modern-world.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/a-sort-of-order-began-to-emerge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/afterglow.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/aspbanner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/blue-swirl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/body-clock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/boiling-plasma1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/bonedigger1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/galaxy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/golden-swirl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/im-guessing-that.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/its-just-my-biology.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/let-the-beauty.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/mentalities-in-visionary.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/my-head-is-bursting.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/sink-of-swim.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/so-this-is-where-it-went-down.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/something-has-started-to-happen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/the-dark-heart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/the-messenger.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/there-is-a-cloud.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/they-saw-it-coming.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/visionary-exhibition-east.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/visionary-west-wing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/when-mentalities-collide.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/when-you-look-close-enough.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/purchase/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +136,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/kerrialnewham/Sites/personal/artstudioprague.com/templates",
+    "last_opened_file_path": "/Users/kerrialnewham/Sites/personal/artstudioprague.com/static",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -178,6 +147,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/templates" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
@@ -204,7 +174,7 @@
       <workItem from="1725200372541" duration="8211000" />
       <workItem from="1725265059736" duration="340000" />
       <workItem from="1739787936129" duration="3407000" />
-      <workItem from="1740253024084" duration="745000" />
+      <workItem from="1740253024084" duration="1630000" />
     </task>
     <servers />
   </component>
