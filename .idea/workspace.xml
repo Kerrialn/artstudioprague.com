@@ -5,37 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="772b9e43-fcb6-4b3c-b8d6-4614e70cbf4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/icon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/a-modern-world.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/a-sort-of-order-began-to-emerge.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/afterglow.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/blue-swirl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/body-clock.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/boiling-plasma1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/bonedigger1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/galaxy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/golden-swirl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/im-guessing-that.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/its-just-my-biology.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/let-the-beauty.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/mentalities-in-visionary.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/my-head-is-bursting.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/sink-of-swim.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/so-this-is-where-it-went-down.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/something-has-started-to-happen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/the-dark-heart.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/the-messenger.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/there-is-a-cloud.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/they-saw-it-coming.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/visionary-exhibition-east.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/visionary-west-wing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/when-mentalities-collide.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/when-you-look-close-enough.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/artwork/6818aacca658a819193252.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/artwork/6818ac8c99eb1483266192.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/uploads/artwork/6818c41a5c50c478247878.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/app/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/app/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +145,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kerrialnewham/Sites/personal/artstudioprague.com/src/Repository",
+    "last_opened_file_path": "/Users/kerrialnewham/Sites/personal/artstudioprague.com/public/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -183,11 +156,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/src/Repository" />
       <recent name="$PROJECT_DIR$/src/Event/Subscriber/Admin" />
       <recent name="$PROJECT_DIR$/src/Controller/Admin" />
       <recent name="$PROJECT_DIR$/src/Controller/Controller" />
-      <recent name="$PROJECT_DIR$/templates" />
     </key>
   </component>
   <component name="RunManager">
@@ -213,7 +186,7 @@
       <workItem from="1740253024084" duration="2940000" />
       <workItem from="1745594433097" duration="4000" />
       <workItem from="1745594442528" duration="16000" />
-      <workItem from="1746442628159" duration="12602000" />
+      <workItem from="1746442628159" duration="13354000" />
     </task>
     <servers />
   </component>
