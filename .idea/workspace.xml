@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="772b9e43-fcb6-4b3c-b8d6-4614e70cbf4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Controller/Admin/AdminCrudController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Event/Subscriber/Admin/AdminPasswordHasherListener.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deployment/Caddyfile" beforeDir="false" afterPath="$PROJECT_DIR$/.deployment/Caddyfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.deployment/docker-compose.production-template.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.deployment/docker-compose.production-template.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/packages/security.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/Admin/DashboardController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Admin/DashboardController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/AdminRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repository/AdminRepository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enum/RoleEnum.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enum/RoleEnum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/vich_uploader.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/vich_uploader.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +186,7 @@
       <workItem from="1740253024084" duration="2940000" />
       <workItem from="1745594433097" duration="4000" />
       <workItem from="1745594442528" duration="16000" />
-      <workItem from="1746442628159" duration="9669000" />
+      <workItem from="1746442628159" duration="11079000" />
     </task>
     <servers />
   </component>

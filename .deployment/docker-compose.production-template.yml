@@ -2,6 +2,7 @@ services:
   php:
     image: ghcr.io/eventpoints/martinnewham.art-php:main
     volumes:
+      - public_data:/app/public
       - php_socket:/var/run/php
       - ./php/php.ini:/usr/local/etc/php/php.ini
     healthcheck:
@@ -32,6 +33,7 @@ services:
       MERCURE_PUBLISHER_JWT_KEY: "__MARTIN_NEWHAM_ART_MERCURE_JWT_SECRET__"
       MERCURE_SUBSCRIBER_JWT_KEY: "__MARTIN_NEWHAM_ART_MERCURE_JWT_SECRET__"
     volumes:
+      - public_data:/app/public
       - php_socket:/var/run/php
       - caddy_data:/data
       - caddy_config:/config
@@ -82,6 +84,7 @@ networks:
     external: false
 
 volumes:
+  public_data:
   php_socket:
   caddy_data:
   caddy_config:

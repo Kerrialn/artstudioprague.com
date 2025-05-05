@@ -6,9 +6,7 @@ use Symfony\Component\DependencyInjection\Loader\Configurator\ContainerConfigura
 
 return static function (ContainerConfigurator $containerConfigurator): void {
     $containerConfigurator->extension('vich_uploader', [
-        // Doctrine ORM
         'db_driver'           => 'orm',
-        // <-- use "file_system" here, NOT "filesystem"
         'storage'             => 'file_system',
         'mappings'            => [
             'artwork_images' => [
