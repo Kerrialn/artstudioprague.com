@@ -47,7 +47,9 @@
                                 <div class="sub-title">
                                     {{ artwork.description }}
                                 </div>
-                                <div class="price">Price upon request</div>
+                                <div class="price">
+                                    <a class="link-dark" href="{{ path('purchase') }}">Purchase this work</a>
+                                </div>
                             </div>
                         </div>
                     {% else %}
