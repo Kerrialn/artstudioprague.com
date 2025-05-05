@@ -16,7 +16,7 @@ class Admin implements UserInterface, PasswordAuthenticatedUserInterface
     #[ORM\GeneratedValue(strategy: 'CUSTOM')]
     #[ORM\Column(type: 'uuid', unique: true)]
     #[ORM\CustomIdGenerator(UuidGenerator::class)]
-    private Uuid $id;
+    private null|Uuid $id = null;
 
     #[ORM\Column(length: 255)]
     private string $email;
@@ -33,7 +33,7 @@ class Admin implements UserInterface, PasswordAuthenticatedUserInterface
     #[ORM\Column(length: 255)]
     private string $password;
 
-    public function getId(): Uuid
+    public function getId(): null|Uuid
     {
         return $this->id;
     }

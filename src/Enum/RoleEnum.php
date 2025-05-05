@@ -4,5 +4,5 @@ namespace App\Enum;
 
 enum RoleEnum : string
 {
-    case ADMIN = 'admin';
+    case ADMIN = 'ROLE_ADMIN';
 }
