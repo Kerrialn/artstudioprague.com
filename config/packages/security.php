@@ -42,10 +42,10 @@ return static function (ContainerConfigurator $containerConfigurator): void {
             ],
         ],
         'access_control' => [
-//            [
-//                'path' => '^/admin',
-//                'roles' => [RoleEnum::ADMIN->value],
-//            ],
+            [
+                'path' => '^/admin',
+                'roles' => [RoleEnum::ADMIN->value],
+            ],
         ],
     ]);
     if ($containerConfigurator->env() === 'test') {
