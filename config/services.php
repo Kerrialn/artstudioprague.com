@@ -2,7 +2,6 @@
 
 declare(strict_types=1);
 
-use App\Security\User\UserProvider;
 use Symfony\Component\DependencyInjection\Loader\Configurator\ContainerConfigurator;
 
 return static function (ContainerConfigurator $containerConfigurator): void {
@@ -23,6 +22,4 @@ return static function (ContainerConfigurator $containerConfigurator): void {
             __DIR__ . '/../src/Kernel.php',
         ]);
 
-    $services->set(UserProvider::class)
-        ->class(UserProvider::class);
 };

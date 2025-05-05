@@ -9,6 +9,7 @@
         "doctrine/doctrine-bundle": "^2.2",
         "doctrine/doctrine-migrations-bundle": "^3.0",
         "doctrine/orm": "^2.8",
+        "easycorp/easyadmin-bundle": "^4.18",
         "stenope/stenope": "^0.9.0",
         "symfony/apache-pack": "^1.0",
         "symfony/asset": "^7.0",
@@ -35,8 +36,10 @@
         "symfony/validator": "^7.0",
         "symfony/web-link": "^7.0",
         "symfony/yaml": "^7.0",
+        "symplify/config-transformer": "^12.4",
         "twig/extra-bundle": "^2.12|^3.0",
-        "twig/twig": "^2.12|^3.0"
+        "twig/twig": "^2.12|^3.0",
+        "vich/uploader-bundle": "^2.6"
     },
     "require-dev": {
         "symfony/browser-kit": "^7.0",
